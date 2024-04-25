@@ -1,0 +1,58 @@
+:root{
+    --gray-color:#727272;
+}
+.exp{
+    margin-right: 100px;
+}
+input{
+    width: 10rem;
+}
+.exp >i{
+    padding: 12px;
+    background-color: #25323A;
+    font-size: 15px;
+    color: white;
+    margin-top: 50px;
+}
+.exp > span{
+    color: #2A333B;
+    font-weight: 800;
+    margin-left: 5px;
+    font-size: 17px;
+}
+.exp > h3{
+    color: #2A333B;
+    padding-left: 20px;
+}
+.nganh{
+    font-weight: 500;
+    font-size: 13px;
+    padding-left: 20px;
+    margin-top: 15px;
+    color: var(--gray-color);
+}
+.exp >b{
+    float: right;
+    margin-right: -120px;
+    font-size: 12px;
+    margin-top: -50px;
+}
+.exp > p{
+    color: var(--gray-color);
+    font-weight: 500;
+    font-size: 13px;
+    padding-left: 20px;
+    margin-top: 15px;
+}
+.link{
+ color: var(--gray-color);
+ text-decoration: none;
+}
+.link:hover{
+    color: rgb(255, 0, 43);
+}
+.exp > img{
+    margin-top: 30px;
+    padding-left: 20px;
+
+}
